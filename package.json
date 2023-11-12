@@ -1,0 +1,16 @@
+{
+  "name": "js-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "random-words": "^2.0.0",
+    "seedrandom": "^3.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
